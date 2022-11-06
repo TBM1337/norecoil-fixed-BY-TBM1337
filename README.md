@@ -6,7 +6,7 @@ it's not the perfect,but better than the old,i think mgsweet can do better than 
 
 
 **14赛季就在用这个，感觉效果挺好，但是15赛季作者还没有更新，我就自己就研究并改进了一下，虽然没有以前那种基本上都是打一个点，但是压枪效果还是有的**
-**/原理如下，pattern文件夹内的TXT文件，压枪数据每一排都有三组**
+**原理如下，pattern文件夹内的TXT文件，压枪数据每一排都有三组**
 
 
 **第一组代表鼠标X轴方向的位移，与实际位移方向相同**
@@ -24,7 +24,7 @@ it's not the perfect,but better than the old,i think mgsweet can do better than 
 
 **I used this in the 14th season and felt it had a good effect. However, the author of the 15th season has not been updated yet. I have studied and improved it myself. Although it is not the same as before, it is still effective**
 
-**/The principle is as follows. There are three groups of press gun data in each row of TXT files in the pattern folder**
+**The principle is as follows. There are three groups of press gun data in each row of TXT files in the pattern folder**
 
 
 
