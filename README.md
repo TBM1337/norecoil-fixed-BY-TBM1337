@@ -66,6 +66,14 @@ it's not the perfect,but better than the old,i think mgsweet can do better than 
 **just replace the same file that in the AHK/SRC/pattern**
 
 
+
+
+
+
+
+
+
+
 >**更新日志**
 
 
