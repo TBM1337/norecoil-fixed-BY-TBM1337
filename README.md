@@ -18,4 +18,4 @@ it's not the perfect,but better than the old,i think mgsweet can do better than 
 **2022.11.6**
 
 
-**first i upload the first version,then i improved some of them and update again hours later**
+**First i upload the first version,then i improved some of them and update again hours later**
