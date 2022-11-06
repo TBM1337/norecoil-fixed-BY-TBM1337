@@ -27,7 +27,11 @@ it's not the perfect,but better than the old,i think mgsweet can do better than 
 
 **I used this in the 14th season and felt it had a good effect. However, the author of the 15th season has not been updated yet. I have studied and improved it myself. Although it is not the same as before, it is still effective**
 
-**The principle is as follows. There are three groups of press gun data in each row of TXT files in the pattern folder**
+
+>**The principle is as follows
+
+
+**There are three groups of press gun data in each row of TXT files in the pattern folder**
 
 
 
