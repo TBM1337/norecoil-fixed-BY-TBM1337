@@ -6,7 +6,10 @@ it's not the perfect,but better than the old,i think mgsweet can do better than 
 
 
 **14赛季就在用这个，感觉效果挺好，但是15赛季作者还没有更新，我就自己就研究并改进了一下，虽然没有以前那种基本上都是打一个点，但是压枪效果还是有的**
-**原理如下，pattern文件夹内的TXT文件，压枪数据每一排都有三组**
+>**原理如下**
+
+
+**pattern文件夹内的TXT文件，压枪数据每一排都有三组**
 
 
 **第一组代表鼠标X轴方向的位移，与实际位移方向相同**
