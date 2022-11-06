@@ -8,3 +8,8 @@ it's not the perfect,but better than the old,i think mgsweet can do better than 
 
 
 **just replace the same file that in the AHK/SRC/pattern**
+
+
+
+>**UPDATE RECORD**
+**2022.11.6,first i upload the first version,then i improved some of them and update again hours later
