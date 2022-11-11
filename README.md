@@ -91,3 +91,17 @@ it's not the perfect,but better than the old,i think mgsweet can do better than 
 
 
 **First i upload the first version,then i improved some of them and update again hours later**
+
+
+**2022.11.12**
+
+
+**查看以往发布的帖子发现mgsweet的压枪也是别人的压枪修改了一下做出来的，比原作者Tientie的压枪方式更方便简洁，原作者也对mgsweet的压枪方式给予了肯定并在后续更新中也借用了部分mgsweet的代码，我深入学习了原作者Tientie所阐述的它的压枪原理，简单点来说就是利用AE的图像追踪功能实现枪械弹道坐标点的反导出，也就是说导出的坐标数据是与枪械打出去的弹道相反，再写入脚本，实现压枪，但图像追踪准确性不高，每次导出坐标数据后我又手动修改并不断测试，得到了11.12版本的压枪，这与我之前毫无头绪的调试相比，效果无疑是非常棒的**
+
+
+**2022.11.12**
+
+
+**After reviewing the previous posts, we found that the press gun of mgsweet was also modified by someone else, which is more convenient and concise than the press gun method of the original author Tientie. The original author also affirmed the press gun method of mgsweet and borrowed some code of mgsweet in the subsequent updates. I deeply learned its press gun principle described by the original author Tientie, To put it simply, the AE image tracking function is used to realize the inverse export of the gun ballistic coordinate points. That is to say, the exported coordinate data is contrary to the trajectory of the gun, and then the script is written to achieve gun pressing. However, the accuracy of image tracking is not high. Every time I export the coordinate data, I manually modify and continuously test, and get the 11.12 gun pressing. Compared with my previous debugging without clue, the effect is undoubtedly very good**
+
+
