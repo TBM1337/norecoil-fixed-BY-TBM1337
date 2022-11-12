@@ -83,6 +83,13 @@ it's not the perfect,but better than the old,i think mgsweet can do better than 
 **我先是上次了压枪参数的第一个版本，但是后来发现还是要一些改进，所以几个小时的调试后上传了新的**
 
 
+**2022.11.12**
+
+
+**查看以往发布的帖子发现mgsweet的压枪也是别人的压枪修改了一下做出来的，比原作者Tientie的压枪方式更方便简洁，原作者也对mgsweet的压枪方式给予了肯定并在后续更新中也借用了部分mgsweet的代码，我深入学习了原作者Tientie所阐述的它的压枪原理，简单点来说就是利用AE的图像追踪功能实现枪械弹道坐标点的反导出，也就是说导出的坐标数据是与枪械打出去的弹道相反，再写入脚本，实现压枪，但图像追踪准确性不高，每次导出坐标数据后我又手动修改并不断测试，得到了11.12版本的压枪，这与我之前毫无头绪的调试相比，效果无疑是非常棒的**
+
+
+
 >**Update Log**
 
 
@@ -92,11 +99,6 @@ it's not the perfect,but better than the old,i think mgsweet can do better than 
 
 **First i upload the first version,then i improved some of them and update again hours later**
 
-
-**2022.11.12**
-
-
-**查看以往发布的帖子发现mgsweet的压枪也是别人的压枪修改了一下做出来的，比原作者Tientie的压枪方式更方便简洁，原作者也对mgsweet的压枪方式给予了肯定并在后续更新中也借用了部分mgsweet的代码，我深入学习了原作者Tientie所阐述的它的压枪原理，简单点来说就是利用AE的图像追踪功能实现枪械弹道坐标点的反导出，也就是说导出的坐标数据是与枪械打出去的弹道相反，再写入脚本，实现压枪，但图像追踪准确性不高，每次导出坐标数据后我又手动修改并不断测试，得到了11.12版本的压枪，这与我之前毫无头绪的调试相比，效果无疑是非常棒的**
 
 
 **2022.11.12**
